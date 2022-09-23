@@ -116,7 +116,7 @@ function About() {
                 <img className="w-full" src="./images/logos/bitmoji.png" alt="Vivek Patel Logo" />
             </div>
             <div className=" mt-4 md:mt-8 text-lg md:text-2xl text-center px-1">
-                <div>my name is <span className="font-bold">Vivek Patel</span> ,</div>
+                <div>my name is <span className="font-bold">Giovanni Jayo Palomino</span> ,</div>
                 <div className="font-normal ml-1">I'm a <span className="text-pink-600 font-bold">Software Engineer!</span></div>
             </div>
             <div className=" mt-4 relative md:my-8 pt-px bg-white w-32 md:w-48">
@@ -186,7 +186,7 @@ function Skills() {
             </ul>
             <div className="w-full md:w-10/12 flex mt-4">
                 <div className=" text-sm text-center md:text-base w-1/2 font-bold">Languages & Tools</div>
-                <div className=" text-sm text-center md:text-base w-1/2 font-bold">Frameworks & Libraries</div>
+               <div className=" text-sm text-center md:text-base w-1/2 font-bold">Frameworks & Libraries</div>
             </div>
             <div className="w-full md:w-10/12 flex justify-center items-start font-bold text-center">
                 <div className="px-2 w-1/2">
